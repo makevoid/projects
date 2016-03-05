@@ -25,4 +25,8 @@ Ethereum
 See more on:
 
 #### <http://thegrid.ai/mkv-projects>
+
+that actually is a subset of:
+
+https://github.com/makevoid?tab=repositories
  
